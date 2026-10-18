@@ -2,7 +2,7 @@
 
 **IT technician and full-stack developer based in Stockholm, Sweden.**
 
-I combine extensive experience in IT configuration, hardware deployment and end-user support at Dustin Group with full-stack web development studies at Nackademin and a development internship at Arcledi OÜ.
+I combine extensive experience in IT configuration, hardware deployment and end-user support at Dustin Group with full-stack web development studies at Nackademin
 
 [Portfolio](https://daniel-portfolio-kohl-chi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/danieldarougah/)
 
